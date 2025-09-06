@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-05-30 201521" src="https://github.com/user-attachments/assets/7c60b213-0537-41e8-acc5-a227df12a657" /># Store Indent Management
+# Store Indent Management
 A web application to manage store requests (indents) easily. Users can create requests, and admins or store managers can approve or reject them.  
 
 ## Features
